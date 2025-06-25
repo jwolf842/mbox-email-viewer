@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+installer_output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+exports/
+*.mbox
+test_data/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/"venv/" 
