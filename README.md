@@ -74,7 +74,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with Python and PyQt5
 - Uses pandas for data processing
-- Icon by [YourIconSource]
+
+## 🐛 Reporting Issues
+
+Found a bug or have a feature request? Please [open an issue](https://github.com/jwolf842/mbox-email-viewer/issues/new/choose)!
+
+Before opening an issue:
+- Check [existing issues](https://github.com/jwolf842/mbox-email-viewer/issues) to avoid duplicates
+- Use the provided templates for best results
+- Include as much detail as possible
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
 
 ## Support
 
