@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Support
+    url: https://github.com/jwolf842/mbox-email-viewer/discussions
+    about: Please ask and answer questions here if discussions are enabled
+  - name: Documentation
+    url: https://github.com/jwolf842/mbox-email-viewer/blob/main/README.md
+    about: Check the documentation for usage instructionshttps://github.com/jwolf842/mbox-email-viewer/new/main/.github/ISSUE_TEMPLATE
