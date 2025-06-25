@@ -1,0 +1,19 @@
+# Core email processing
+email-validator>=2.0.0
+python-dateutil>=2.8.2
+
+# GUI Framework
+PyQt5>=5.15.9
+pyqt5-tools>=5.15.9.2.3
+
+# Data processing
+pandas>=2.0.3
+openpyxl>=3.1.2
+xlsxwriter>=3.1.2
+
+# Progress bars and utilities
+tqdm>=4.65.0
+
+# For building executable
+pyinstaller>=5.13.0
+auto-py-to-exe>=2.36.0

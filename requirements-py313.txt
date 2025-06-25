@@ -1,0 +1,8 @@
+# Minimal requirements for Python 3.13
+python-dateutil>=2.8.2
+pandas>=2.0.3
+tqdm>=4.65.0
+openpyxl>=3.1.2
+
+# Note: PyQt5 doesn't support Python 3.13 yet
+# You'll need to use tkinter or wait for PyQt6
